@@ -42,7 +42,8 @@ The dashboard combines KPI cards, pivot-chart visuals, and a slicer-based filter
 
 ## Dashboard Preview
 
-![Blinkit Dashboard](Dashboard_Preview.gif)
+<img width="800" height="423" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/d163f364-c83c-4f05-84d6-365a04a9baca" />
+
 
 > The filter panel on the left updates every chart and KPI card at once. The preview above shows the dashboard filtered by outlet size.
 
