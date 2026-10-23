@@ -4,7 +4,9 @@ An interactive Excel dashboard that analyzes Blinkit retail sales data across
 8,523 items, covering total sales of $1.20M, an average sale of $141, and an
 average customer rating of 4.0.
 
-<img width="400" height="212" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/cd84c519-9593-4ac6-9824-ec5e7a0e2958" />
+# Excel Dashboard
+
+<img width="800" height="423" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/85409faa-8e41-41aa-8071-ffbeba43afe4" />
 
 
 ## Objective
@@ -38,11 +40,39 @@ inventory and outlet strategy decisions can be data-backed.
 - Custom dashboard design with KPI cards
 
 ## Files
-- `Blinkit_Data.xlsx`: raw dataset
-- `Blinkit_Dashboard.xlsx`: final dashboard
-- `Dashboard_Preview.png`: dashboard screenshot
+- `Blinkit Glocery Data Excel.xlsx`: raw dataset
+- `Blinkit Glocery Data Excel.xlsx`: final dashboard
+- `Dashboard_Preview.gif`: dashboard screenshot
 
 ## How to Use
-1. Download `Blinkit_Dashboard.xlsx`.
+1. Download `Blinkit Glocery Data Excel.xlsx`.
 2. Open it in Excel (2016 or later recommended).
 3. Use the filter panel on the left to explore by outlet size, location, or item type.
+
+## Business Questions
+- Which item categories generate the highest sales?
+- How do outlet size and location tier affect revenue?
+- Does fat content influence sales across different locations?
+- How has performance varied by outlet establishment year?
+
+## Dataset
+- **Source:** Kaggle - Blinkit Grocery Dataset
+- **Records:** 8,523 items
+- **Key Fields:** Item Type, Fat Content, Outlet Size, Outlet Location Type,
+  Outlet Type, Establishment Year, Sales, Rating
+
+## Data Cleaning
+- Standardized Fat Content values ("LF", "low fat" → "Low Fat"; "reg" → "Regular")
+- Handled missing values in Item Weight and Outlet Size
+- Checked for duplicates and inconsistent formatting
+
+## Recommendations
+- Prioritize Fruits & Vegetables and Snack Foods inventory in high-performing outlets.
+- Focus expansion on Tier 3 locations, which lead in total sales.
+- Study what makes Supermarket Type 1 outlets succeed and replicate it in other formats.
+
+## Future Improvements
+- Build the same dashboard in Power BI for comparison
+- Add a profit and margin analysis
+- Include sales forecasting
+
