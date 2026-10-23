@@ -4,7 +4,8 @@ An interactive Excel dashboard that analyzes Blinkit retail sales data across
 8,523 items, covering total sales of $1.20M, an average sale of $141, and an
 average customer rating of 4.0.
 
-![Dashboard Preview](Dashboard_Preview.png)
+<img width="400" height="212" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/cd84c519-9593-4ac6-9824-ec5e7a0e2958" />
+
 
 ## Objective
 Identify which products, outlet types, and locations drive sales, so that
