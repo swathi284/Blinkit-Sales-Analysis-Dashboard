@@ -1,14 +1,13 @@
 <div align="center">
-# Blinkit Sales Analysis Dashboard
- 
-### An interactive Excel dashboard for retail sales, outlet performance, and product insights
-
-<div align="center">
 
 # Blinkit Sales Analysis Dashboard
 
 ### An interactive Excel dashboard for retail sales, outlet performance, and product insights
 
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-F8D210?style=for-the-badge&logoColor=black)
+![Dashboard](https://img.shields.io/badge/Dashboard-0C831F?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 </div>
 
@@ -43,7 +42,7 @@ The dashboard combines KPI cards, pivot-chart visuals, and a slicer-based filter
 
 ## Dashboard Preview
 
-<img width="800" height="423" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/85409faa-8e41-41aa-8071-ffbeba43afe4" />
+![Blinkit Dashboard](Dashboard_Preview.gif)
 
 > The filter panel on the left updates every chart and KPI card at once. The preview above shows the dashboard filtered by outlet size.
 
