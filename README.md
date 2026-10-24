@@ -69,7 +69,7 @@ BlinkIT's management needs a clear view of how the business is performing across
 
 ## Dataset
 
-**File:** `BlinkIT_Grocery_Data_Excel.xlsx` | **Records:** 8,523 | **Columns:** 12
+**File:** `BlinkIT Grocery Data Excel.xlsx` | **Records:** 8,523 | **Columns:** 12
 
 | Column | Description |
 |---|---|
@@ -173,7 +173,7 @@ The workbook is organised into three sheets:
 ```
 blinkit-sales-analysis/
 │
-├── BlinkIT_Grocery_Data_Excel.xlsx    # Data, pivot tables, and dashboard
+├── BlinkIT Grocery Data Excel.xlsx    # Data, pivot tables, and dashboard
 ├── images/
 │   └── dashboard.png                  # Dashboard screenshot
 └── README.md
